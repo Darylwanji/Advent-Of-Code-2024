@@ -38,7 +38,7 @@ Description:
 Description: 
 1. Context: You are a data analyst on the Ceres-1 mission, tasked with analyzing a grid of characters to find occurrences of the word "XMAS".
 2. Part One: Count the total number of occurrences of "XMAS" in the grid.
-3. Part Two: Count the total number of occurrences of "XMAS" in all four directions: horizontally, vertically, and diagonally.
+3. Part Two: Count the total number of occurrences of "MAS" in all X-shaped directions
 4. Implementation: Python code is provided to read the input, analyze the grid, and compute the counts for both parts.
    
 [[Day 4]](https://github.com/Darylwanji/Advent-Of-Code-2024/tree/main/Day4)

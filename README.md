@@ -42,3 +42,12 @@ Description:
 4. Implementation: Python code is provided to read the input, analyze the grid, and compute the counts for both parts.
    
 [[Day 4]](https://github.com/Darylwanji/Advent-Of-Code-2024/tree/main/Day4)
+
+### Day 5: Print Queue
+Description: 
+1. Context: The Elves are printing out a bunch of reports, but they need to be in the right order.
+2. Part One: Find the sum of the middle numbers of the correctly ordered updates.
+3. Part Two: Find the sum of the middle numbers of the not correctly ordered updates, order the updates considering the page ordering rules.
+4. Implementation: Python code is provided to read the input, check the order, and compute the results for both parts.
+   
+[[Day 5]](https://github.com/Darylwanji/Advent-Of-Code-2024/tree/main/Day5)

@@ -51,3 +51,12 @@ Description:
 4. Implementation: Python code is provided to read the input, check the order, and compute the results for both parts.
    
 [[Day 5]](https://github.com/Darylwanji/Advent-Of-Code-2024/tree/main/Day5)
+
+### Day 7: Bridge Repair
+Description: 
+1. Context: The engineers need to repair the bridge to the North Pole, but they need to figure out the correct order of operations for the calculations.
+2. Part One: Find the sum of the left side of the equation for which the operator conditions are met.
+3. Part Two: Find the sum of the left side of the equation for which the operator conditions are met, but this time a third operator is added.
+4. Implementation: Python code is provided to read the input, evaluate the expressions, and compute the results for both parts.
+   
+[[Day 7]](https://github.com/Darylwanji/Advent-Of-Code-2024/tree/main/Day7)
